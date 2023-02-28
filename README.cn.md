@@ -2,7 +2,7 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
 
-为使用 [gitpod.io](gitpod.io) 代码编辑器 4Geeks Academy 学生提供的最基础的样板。
+为使用 [gitpod.io](gitpod.io) 代码编辑器 4Geeks Academy China 学生提供的最基础的样板。
 
 [![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
 

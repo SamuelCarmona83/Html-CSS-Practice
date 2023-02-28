@@ -1,0 +1,58 @@
+* {
+    font-family: 'Inria Sans', sans-serif;
+}
+
+body {
+    position: relative; 
+    background-color: white;
+    margin: 0;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.titular{
+    margin: 5px;
+    font-size: 1em;
+}
+
+.action-group{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.action-group button {
+    width: 25%;
+}
+
+#contenedor {
+    background-color: grey;
+    /* min-height: 25vh; */
+    position: absolute;
+    border-radius: 15px;
+    padding: 1.5rem;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+i {
+    color: red;
+}
+
+button {
+    all: unset; 
+    padding: 5px;
+    margin: 5px;
+    color: white;
+    border-radius: 3px;
+    background-color: #01497c;
+}
+
+button:focus {
+    border: 2px solid red;
+}
+
+.wood-image{
+    max-height: 35vh;
+    object-fit: cover;
+}
