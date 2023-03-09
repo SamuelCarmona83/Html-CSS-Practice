@@ -55,7 +55,7 @@ let geeks = [ 'Hussein', 'Mariana', 16, undefined, " I'm , What's " ]
 //console.log( geeks[0] )
 
 //object
-const Wissam = {
+let Wissam = {
     //clave : valor
     nombre : 'Wissam',
     apellido: 'Serhan',
@@ -74,7 +74,7 @@ Wissam = {
     hobby: "Padel 🏏"
 }
 
-console.log(Wissam)
+console.log(Wissam['edad'])
     //seleccionado una propiedad/llave del objeto
     //nota: las propiedades son mutables
 
